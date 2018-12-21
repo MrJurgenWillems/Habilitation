@@ -1,8 +1,9 @@
 Habilitation - Synopsis: Leadership, Performance, and Reputation: A multi-method empirical view on the public and nonprofit sectors
 ===================================================================================================================================
 
-**Contact:** [Jurgen
-Willems](https://www.researchgate.net/profile/Jurgen_Willems "ResearchGate: Jurgen Willems"),
+**[Jurgen
+Willems](https://www.researchgate.net/profile/Jurgen_Willems "ResearchGate: Jurgen Willems")**
+
 Universität Hamburg, Von-Melle-Park 9, 20146 Hamburg, Germany, GitHub:
 [@MrJurgenWillems](https://github.com/MrJurgenWillems "GitHub: Jurgen Willems"),
 Twitter:
