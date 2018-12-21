@@ -53,8 +53,8 @@ Leadership is widely studied in the field of management and can be
 defined as “\[. . . \] the ability of an individual to influence,
 motivate, and enable others to contribute toward the effectiveness and
 success of the organizations of which they are members“ (House et al.
-2002 , p5) (p5). Several studies in this Habilitation focus on dynamics
-in leadership teams. Consequently, a leadership team is the group of
+2002 , p5). Several studies in this Habilitation focus on dynamics in
+leadership teams. Consequently, a leadership team is the group of
 individuals that is actively involved in the strategic decision-making
 and in the main governance processes of an organization. The studies in
 this Habilitation contribute to the literature by exploring how dynamics
@@ -72,8 +72,8 @@ very diverse and context specific, and therefore many different forms of
 performance can be distinguished within this overall and abstract
 concept. For instance, when performance is hard to measure, subjective,
 and multi-dimensional – as it is the case for many public and nonprofit
-organizations (Herman and Renz 1999, Herman and Renz (2008), Lecy,
-Schmitz, and Swedlund (2012), Jun and Shiau (2012)) – stakeholders’
+organizations (Herman and Renz 1999; Herman and Renz 2008; Lecy,
+Schmitz, and Swedlund 2012; Jun and Shiau 2012 ) – stakeholders’
 subjective perceptions and opinions on performance play a major role.
 This means that organizational performance is equal to its external
 reputation and is thus highly determined by the various opinions held by
@@ -85,8 +85,8 @@ to further explore reputational dynamics among organizational
 stakeholders.
 
 Reputation is defined as accumulated perceptions that stakeholders have
-on an organization’s capacity to create value (Fombrun and Shanley 1990,
-Rindova et al. (2006), Rindova et al. (2005)) , and it can enhance
+on an organization’s capacity to create value (Fombrun and Shanley 1990;
+Rindova et al. 2006; Rindova et al. 2005 ) , and it can enhance
 stakeholder trust and their willingness to engage with the organization
 (Austin, Stevenson, and Wei‐Skillern 2006). The specific component of
 this overall perception that focuses on performance of an organization
@@ -102,8 +102,8 @@ Theory development and validation in the management research literature
 has still too often inherent assumptions embedded that are typical for
 for-profit business organizations and that cannot always be generalized
 for all types of organizations, including public and nonprofit
-organizations (Balser and McClusky 2005, Cornforth (2011), Morris et al.
-(2007)). Despite the fact that a multitude of such un-generalizable
+organizations (Balser and McClusky 2005; Cornforth 2011; Morris et al.
+2007). Despite the fact that a multitude of such un-generalizable
 assumptions could be listed and elaborated, I focus for the purpose of
 this synopsis on the embedded assumptions of primary stakeholders. In
 short, due to the unique and clear goal of for-profit organizations,
@@ -133,8 +133,8 @@ goals do not include the distribution of profit to owners (Hansmann
 1987), do not have formal owners. Moreover, as their goals focus on
 social, environmental and public aspects, the ones paying for the
 organization’s services and products are seldom the ones benefiting from
-it (Brooks 2003 ,Callen (1994) ,Foster, Kim, and Christiansen (2009)) .
-As a result, many public and nonprofit organizations have no clear
+it (Brooks 2003 ; Callen 1994 ; Foster, Kim, and Christiansen 2009) . As
+a result, many public and nonprofit organizations have no clear
 one-on-one customer relationships with their stakeholders in which a
 profit margin is exchanged for added value. In other words, even without
 customers and formal owners, public and nonprofit organization can
@@ -173,8 +173,8 @@ mission that cover the various preferences of multiple stakeholder
 types. As a result, several organizational goals might be complementary
 to each other, but might also be traded of against each other when
 scarce resources have to be allocated for the achievement of these goals
-(Lecy, Schmitz, and Swedlund 2012 , Willems, Boenigk, and Jegers (2014))
-. This multi-goal setting complicates in many cases public and nonprofit
+(Lecy, Schmitz, and Swedlund 2012 ; Willems, Boenigk, and Jegers 2014) .
+This multi-goal setting complicates in many cases public and nonprofit
 performance. As different dimensions might have different importance for
 different stakeholders, performance evaluations of public and nonprofit
 organizations are very subjective. Moreover, as public and nonprofit
@@ -183,16 +183,16 @@ is also difficult or impossible to clearly delineate the contribution of
 each organization in social and public goal achievement. For example, it
 the contexts of poverty reduction or environment protection it is
 impossible to clearly quantify the unique contribution of a single
-organization (Coleman Selden and Sowa 2004, Sowa, Selden, and Sandfort
-(2004)) . Therefore, leadership in public and nonprofit is also strongly
+organization (Coleman Selden and Sowa 2004; Sowa, Selden, and Sandfort
+2004) . Therefore, leadership in public and nonprofit is also strongly
 focused on intra- and inter-sector collaborations to achieve such shared
 goals. Hence, due to the high subjectivity and difficulty to quantify
 public and nonprofit performance, the academic debate is still vivid on
 what constitutes true public and nonprofit performance. In contrast, as
 subjectivity and social constructionism are inherent for public and
 nonprofit performance, reputation and perceptions are in many cases
-substantially more important than true performance (Herman and Renz
-2008, Willems, Boenigk, and Jegers (2014)) .
+substantially more important than true performance (Herman and Renz 2008
+; Willems, Boenigk, and Jegers 2014) .
 
 As a result, theoretical management models and practical recommendations
 that are built tacitly or explicitly on owner or customer benefits,
