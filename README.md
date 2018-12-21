@@ -8,9 +8,6 @@ output:
     toc: yes
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, tidy.opts=list(width.cutoff=80),tidy=TRUE)
-```
 
 **Contact:**
 [Jurgen Willems](https://www.researchgate.net/profile/Jurgen_Willems "ResearchGate: Jurgen Willems"), 
