@@ -8,6 +8,8 @@ Twitter:
 Introduction
 ============
 
+\[@ \]
+
 This Habilitation dissertation combines eleven published articles for
 which the overall content relates to three interrelated concepts:
 leadership, performance, and reputation. Hence, this Habilitation
@@ -49,8 +51,8 @@ Leadership is widely studied in the field of management and can be
 defined as “\[. . . \] the ability of an individual to influence,
 motivate, and enable others to contribute toward the effectiveness and
 success of the organizations of which they are members“ (House et al.
-2002, p5). Several studies in this Habilitation focus on dynamics in
-leadership teams. Consequently, a leadership team is the group of
+2002 , p5) (p5). Several studies in this Habilitation focus on dynamics
+in leadership teams. Consequently, a leadership team is the group of
 individuals that is actively involved in the strategic decision-making
 and in the main governance processes of an organization. The studies in
 this Habilitation contribute to the literature by exploring how dynamics
@@ -68,27 +70,28 @@ very diverse and context specific, and therefore many different forms of
 performance can be distinguished within this overall and abstract
 concept. For instance, when performance is hard to measure, subjective,
 and multi-dimensional – as it is the case for many public and nonprofit
-organizations (Herman & Renz, 1999; 2008; Jun & Shiau 2012; Lecy et al.
-2012) – stakeholders’ subjective perceptions and opinions on performance
-play a major role. This means that organizational performance is equal
-to its external reputation and is thus highly determined by the various
-opinions held by numerous stakeholders. Therefore, one of the articles
-of this Habilitation gives an in-depth theoretical exploration of the
+organizations (Herman and Renz 1999, Herman and Renz (2008), Lecy,
+Schmitz, and Swedlund (2012), Jun and Shiau (2012)) – stakeholders’
+subjective perceptions and opinions on performance play a major role.
+This means that organizational performance is equal to its external
+reputation and is thus highly determined by the various opinions held by
+numerous stakeholders. Therefore, one of the articles of this
+Habilitation gives an in-depth theoretical exploration of the
 methodological trade-offs to make when operationalizing performance
 measures. Other studies in this Habilitation build on these trade-offs
 to further explore reputational dynamics among organizational
 stakeholders.
 
 Reputation is defined as accumulated perceptions that stakeholders have
-on an organization’s capacity to create value (Fombrun & Shanley 1990;
-Rindova et al., 2005; 2006), and it can enhance stakeholder trust and
-their willingness to engage with the organization (Austin et al., 2006).
-The specific component of this overall perception that focuses on
-performance of an organization is performance reputation (Willems et
-al., 2016). On the intersection of performance and reputation, the
-articles in this cumulative Habilitation contribute to the literature by
-clarifying various factors that influence reputation and perceived
-performance.
+on an organization’s capacity to create value (Fombrun and Shanley 1990,
+Rindova et al. (2006), Rindova et al. (2005)) , and it can enhance
+stakeholder trust and their willingness to engage with the organization
+(Austin, Stevenson, and Wei‐Skillern 2006). The specific component of
+this overall perception that focuses on performance of an organization
+is performance reputation (Willems, Jegers, and Faulk 2016). On the
+intersection of performance and reputation, the articles in this
+cumulative Habilitation contribute to the literature by clarifying
+various factors that influence reputation and perceived performance.
 
 The public and nonprofit sectors as scientific field
 ====================================================
@@ -97,8 +100,8 @@ Theory development and validation in the management research literature
 has still too often inherent assumptions embedded that are typical for
 for-profit business organizations and that cannot always be generalized
 for all types of organizations, including public and nonprofit
-organizations (Balser & McClusky, 2005; Cornforth, 2011; Morris et al.,
-2007). Despite the fact that a multitude of such un-generalizable
+organizations (Balser and McClusky 2005, Cornforth (2011), Morris et al.
+(2007)). Despite the fact that a multitude of such un-generalizable
 assumptions could be listed and elaborated, I focus for the purpose of
 this synopsis on the embedded assumptions of primary stakeholders. In
 short, due to the unique and clear goal of for-profit organizations,
@@ -124,21 +127,21 @@ customers is created and increased.
 
 However, public and nonprofit organizations, which are (partially)
 defined by the non-distribution constraint – which means that their
-goals do not include the distribution of profit to owners (Hansmann,
+goals do not include the distribution of profit to owners (Hansmann
 1987), do not have formal owners. Moreover, as their goals focus on
 social, environmental and public aspects, the ones paying for the
 organization’s services and products are seldom the ones benefiting from
-it (Brooks, 2003; Callen, 1994; Foster et al., 2009). As a result, many
-public and nonprofit organizations have no clear one-on-one customer
-relationships with their stakeholders in which a profit margin is
-exchanged for added value. In other words, even without customers and
-formal owners, public and nonprofit organization can remain to exist and
-even be very successful in achieving their specific goals. However, the
-consequences are that (1) public and nonprofit organizations often
-combine a broader variety of stakeholders, including donors,
-beneficiaries, volunteers, members, employees, policy makers, and
-citizens; and (2) that power relationships among these stakeholders are
-often less hierarchical and one-directional compared to for-profit
+it (Brooks 2003 ,Callen (1994) ,Foster, Kim, and Christiansen (2009)) .
+As a result, many public and nonprofit organizations have no clear
+one-on-one customer relationships with their stakeholders in which a
+profit margin is exchanged for added value. In other words, even without
+customers and formal owners, public and nonprofit organization can
+remain to exist and even be very successful in achieving their specific
+goals. However, the consequences are that (1) public and nonprofit
+organizations often combine a broader variety of stakeholders, including
+donors, beneficiaries, volunteers, members, employees, policy makers,
+and citizens; and (2) that power relationships among these stakeholders
+are often less hierarchical and one-directional compared to for-profit
 organizations.
 
 It are in particular these two consequences that make it challenging to
@@ -148,7 +151,7 @@ governance bodies, have not to the same extent the responsibility to
 represent benefits of a single type of stakeholder. As a result, seminal
 contributions have argued that theoretical models on for-profit board
 leadership are to a varying extent applicable to public and nonprofit
-settings (Cornforth, 2011; Parker, 2007). In contrast, their
+settings (Parker 2007 , Cornforth (2011)). In contrast, their
 responsibilities might be substantially broader, as they represent
 different types of stakeholders (Van Puyvelde et al., 2012). Moreover,
 as organizational goals of public and nonprofit organizations are not
@@ -168,26 +171,26 @@ mission that cover the various preferences of multiple stakeholder
 types. As a result, several organizational goals might be complementary
 to each other, but might also be traded of against each other when
 scarce resources have to be allocated for the achievement of these goals
-(Lecy et al., 2012; Willems et al., 2013). This multi-goal setting
-complicates in many cases public and nonprofit performance. As different
-dimensions might have different importance for different stakeholders,
-performance evaluations of public and nonprofit organizations are very
-subjective. Moreover, as public and nonprofit goals are often shared
-with other public and nonprofit organizations, it is also difficult or
-impossible to clearly delineate the contribution of each organization in
-social and public goal achievement. For example, it the contexts of
-poverty reduction or environment protection it is impossible to clearly
-quantify the unique contribution of a single organization (Selden &
-Sowa, 2004; Sowa et al., 2004). Therefore, leadership in public and
-nonprofit is also strongly focused on intra- and inter-sector
-collaborations to achieve such shared goals. Hence, due to the high
-subjectivity and difficulty to quantify public and nonprofit
-performance, the academic debate is still vivid on what constitutes true
-public and nonprofit performance. In contrast, as subjectivity and
-social constructionism are inherent for public and nonprofit
-performance, reputation and perceptions are in many cases substantially
-more important than true performance (Herman & Renz, 1999; Willems et
-al., 2014).
+(Lecy, Schmitz, and Swedlund 2012 , Willems, Boenigk, and Jegers (2014))
+. This multi-goal setting complicates in many cases public and nonprofit
+performance. As different dimensions might have different importance for
+different stakeholders, performance evaluations of public and nonprofit
+organizations are very subjective. Moreover, as public and nonprofit
+goals are often shared with other public and nonprofit organizations, it
+is also difficult or impossible to clearly delineate the contribution of
+each organization in social and public goal achievement. For example, it
+the contexts of poverty reduction or environment protection it is
+impossible to clearly quantify the unique contribution of a single
+organization (Coleman Selden and Sowa 2004, Sowa, Selden, and Sandfort
+(2004)) . Therefore, leadership in public and nonprofit is also strongly
+focused on intra- and inter-sector collaborations to achieve such shared
+goals. Hence, due to the high subjectivity and difficulty to quantify
+public and nonprofit performance, the academic debate is still vivid on
+what constitutes true public and nonprofit performance. In contrast, as
+subjectivity and social constructionism are inherent for public and
+nonprofit performance, reputation and perceptions are in many cases
+substantially more important than true performance (Herman and Renz
+2008, Willems, Boenigk, and Jegers (2014)) .
 
 As a result, theoretical management models and practical recommendations
 that are built tacitly or explicitly on owner or customer benefits,
@@ -245,7 +248,7 @@ organizational performance. Article 4 complements these studies in a
 qualitative way by elaborating the power structures among leaders. More
 explanation per article is given in the respective paragraphs below.
 
-Article 1 (Willems, 2016a) explores which governance practices nonprofit
+Article 1 (Willems 2016b) explores which governance practices nonprofit
 leaders consider necessary to avoid organizational crises. Further, it
 explores whether these leadership mental models of crisis resistance
 depend on the organizational context. This helps determine whether
@@ -260,7 +263,7 @@ models cannot be explained by the organizational variables used in this
 study (organizational size, leadership group size, operational
 activities, and languages in the leadership group).
 
-Article 2 (Willems, 2016b), elaborates the insights from Article 1 by
+Article 2 (Willems 2016a), elaborates the insights from Article 1 by
 exploring in more depth the concept of shared mental models among
 leaders. Because shared mental models are critical for consistent,
 accurate decision making, this study seeks to explain the extent to
@@ -279,7 +282,7 @@ the hypotheses are tested. Confirmation of the hypotheses offers
 insights into the multilevel, emergent nature of team behavior and
 shared mental models.
 
-Article 3 (Valéau, Willems, & Parak, 2016) complements Articles 1 and 2
+Article 3 (Valéau, Willems, and Parak 2016) complements Articles 1 and 2
 by incorporating individual motivations of volunteers and employees that
 participate on the organizational decision processes. Using a multilevel
 analysis including 207 volunteers and paid workers nested within 51
@@ -300,28 +303,28 @@ effect of affective attitudinal commitment at the individual level,
 while counter balancing the negative effects related to normative
 individual and collective resistances.
 
-Article 4 (Willems, Andersson, Jegers, & Renz, 2017) takes qualitative
-approach to leadership dynamics by framing it in the organizational
-literature on dominant coalitions in leadership teams. In doing so, we
-answer the call that nonprofit governance research should focus more on
-processes outside the boundaries of governance boards, especially for
-nonprofit organizations. In particular, we suggest and elaborate
-concrete steps with respect to the advantages of a leadership coalition
-perspective to focus more on the behavioral and informal aspects of
-governance. Through a comparative case analysis of five nonprofit
-organizations, we explore contingencies between characteristics of
-nonprofit leadership coalitions and governance quality. We identify two
-dimensions to classify leadership coalitions: centralized versus
-diffused influence and specific versus holistic influence. These
-dimensions are subsequently related with observed governance quality. We
-frame our finding in the existing literature on group faultlines, which
-are socially constructed dividing lines within groups, and we discuss
-the importance of establishing a balanced coalition between a weak or
-non-existing and a strong dominant coalition to ensure high governance
-quality. We also present propositions on how governance quality and its
-various sub-dimensions can be studied as a complex, nonlinear
-intermediate concept between coalitional aspects of leadership groups
-and nonprofit organizational performance.
+Article 4 (Willems et al. 2017) takes qualitative approach to leadership
+dynamics by framing it in the organizational literature on dominant
+coalitions in leadership teams. In doing so, we answer the call that
+nonprofit governance research should focus more on processes outside the
+boundaries of governance boards, especially for nonprofit organizations.
+In particular, we suggest and elaborate concrete steps with respect to
+the advantages of a leadership coalition perspective to focus more on
+the behavioral and informal aspects of governance. Through a comparative
+case analysis of five nonprofit organizations, we explore contingencies
+between characteristics of nonprofit leadership coalitions and
+governance quality. We identify two dimensions to classify leadership
+coalitions: centralized versus diffused influence and specific versus
+holistic influence. These dimensions are subsequently related with
+observed governance quality. We frame our finding in the existing
+literature on group faultlines, which are socially constructed dividing
+lines within groups, and we discuss the importance of establishing a
+balanced coalition between a weak or non-existing and a strong dominant
+coalition to ensure high governance quality. We also present
+propositions on how governance quality and its various sub-dimensions
+can be studied as a complex, nonlinear intermediate concept between
+coalitional aspects of leadership groups and nonprofit organizational
+performance.
 
 Further exploring and applying the concept of performance reputation
 --------------------------------------------------------------------
@@ -333,7 +336,7 @@ measuring nonprofit performance or perceptions about it. Articles 6 and
 7 respectively elaborate concepts of stakeholder perceptions in the
 hospital and (non-formal) educational sectors.
 
-Article 5 (Willems, Boenigk & Jegers, 2014) presents seven trade-offs
+Article 5 (Willems, Boenigk, and Jegers 2014) presents seven trade-offs
 for researchers and practitioners to consider before engaging in a
 nonprofit performance measurement project. By presenting these seven
 trade-offs, this theory-driven study complements contemporary
@@ -350,7 +353,7 @@ misinterpretations and measurement biases. Finally, this article
 concludes with five avenues for further research to help address key
 challenges that remain in this research area.
 
-Article 6 (Willems, 2015) focuses on stakeholder perceptions for a
+Article 6 (Willems 2015) focuses on stakeholder perceptions for a
 particular type of organizations. Non-formal education is often one of
 the organizational goals of many public and nonprofit organizations, and
 this study explores how the availability of resources for stakeholders
@@ -368,7 +371,7 @@ index (HDI), and societal functionality. In contrast, participant
 functionality remains constant despite differences between countries for
 the HDI.
 
-Article 7 (Willems & Ingerfurth, 2018), similarly to Article 6 focuses
+Article 7 (Willems and Ingerfurth 2018), similarly to Article 6 focuses
 on stakeholder perceptions for a particular type of organizations.
 However, this time the focus is on patients’ and employees’ perceptions
 on hospital performance. To assess hospital performance, quality
@@ -407,7 +410,7 @@ performance (or performance reputation) is influenced by intra- and
 inter sector collaborations.
 
 Given the unique role of prosocial motivation and behavior in the public
-and nonprofit sectors, in Article 8 (Willems & Walk, 2013) we aim to
+and nonprofit sectors, in Article 8 (Willems and Walk 2013) we aim to
 explore the relationship between volunteer motives and task preferences
 in order to provide volunteer managers with better insight in how tasks
 can be assigned to keep youth volunteers satisfied. Earlier seminal
@@ -427,8 +430,8 @@ motives and task preferences has to be taken, as we find four other
 relationships where specific motives are satisfied by assigning
 particular sets of tasks.
 
-While Article 8 focusses on volunteers, Article 9 (Willems, 2014)
-focuses on motivational aspects of employees in the nonprofit and public
+While Article 8 focusses on volunteers, Article 9 (Willems 2014) focuses
+on motivational aspects of employees in the nonprofit and public
 sectors, compared to the for-profit sector. In this study, I postulate a
 complementary consideration to an article of LeRoux and Feeney 2013. The
 aim is to provide avenues for further research on employee research in
@@ -442,171 +445,188 @@ distinction between antecedents and effects of sector of employment, and
 (2) the different relationships across sectors between work‐related
 variables, such as job satisfaction, job flexibility, or job clarity.
 
-The study in Article 10 (Faulk, Willems, Johnson & Stuart, 2016)
-investigates whether nonprofit board connections with other nonprofit
-organizations and foundations explain organizational performance in
-earning foundation grants. Using a sample of 402 nonprofits and
-sixty-eight foundations in a single metropolitan area in the US, we find
-that greater connectedness and status interlocks significantly influence
-organizations’ ability to acquire resources. Network effects are
-partially mediated by the number of past grants received and a
-nonprofit’s financial characteristics, including organizational size,
-fundraising expenses, and financial health. These findings, while
-supporting the role of networks in resource attainment, point to the
-complex and mutual relationships between organizational characteristics,
-network characteristics, and organizational performance. Article 11
-(Crispeels, Willems & Scheerlinck, 2018) focuses also on the role of
-organizational collaborations on performance. Consistent with popular
-belief among certain academics, practitioners, and policy makers, we
-hypothesize that collaboration between private and public organizations
-promotes success. We test this hypothesis for data on clinical trial
-success. Contrary to this popular belief, our results do not support the
-beneficial effect of within- and cross-sector collaborations. In
-contrast, we find that trials from single private companies are four
-times more likely to be successful than are trials in which public and
-private organizations collaborate. Hence, our results indicate that
-companies engage with public partners to mitigate development risks, not
-to exchange knowledge or technologies with them
+The study in Article 10 (Faulk et al. 2016) investigates whether
+nonprofit board connections with other nonprofit organizations and
+foundations explain organizational performance in earning foundation
+grants. Using a sample of 402 nonprofits and sixty-eight foundations in
+a single metropolitan area in the US, we find that greater connectedness
+and status interlocks significantly influence organizations’ ability to
+acquire resources. Network effects are partially mediated by the number
+of past grants received and a nonprofit’s financial characteristics,
+including organizational size, fundraising expenses, and financial
+health. These findings, while supporting the role of networks in
+resource attainment, point to the complex and mutual relationships
+between organizational characteristics, network characteristics, and
+organizational performance.
+
+Article 11 (Crispeels, Willems, and Scheerlinck 2018) focuses also on
+the role of organizational collaborations on performance. Consistent
+with popular belief among certain academics, practitioners, and policy
+makers, we hypothesize that collaboration between private and public
+organizations promotes success. We test this hypothesis for data on
+clinical trial success. Contrary to this popular belief, our results do
+not support the beneficial effect of within- and cross-sector
+collaborations. In contrast, we find that trials from single private
+companies are four times more likely to be successful than are trials in
+which public and private organizations collaborate. Hence, our results
+indicate that companies engage with public partners to mitigate
+development risks, not to exchange knowledge or technologies with them
 
 References
 ==========
 
-Austin, J., Stevenson, H., & Wei-Skillern, J. 2006. Social and
-commercial entrepreneurship: same, different, or both? Entrepreneurship:
-Theory and Practice, 30(1): 1-22.
+Austin, James, Howard Stevenson, and Jane Wei‐Skillern. 2006. “Social
+and Commercial Entrepreneurship: Same, Different, or Both?”
+*Entrepreneurship: Theory and Practice* 1 (1): 1–22.
+doi:[10.1111/j.1540-6520.2006.00107.x](https://doi.org/10.1111/j.1540-6520.2006.00107.x).
 
-Balser, D., & McClusky, J. 2005. Managing stakeholder relationships and
-nonprofit organization effectiveness. Nonprofit Management & Leadership,
-15(3): 295-315.
+Balser, Deborah, and John McClusky. 2005. “Managing Stakeholder
+Relationships and Nonprofit Organization Effectiveness.” *Nonprofit
+Management & Leadership* 15 (3): 295–315.
+doi:[10.1002/nml.70](https://doi.org/10.1002/nml.70).
 
-Brooks, A. C. 2003. Do government subsidies to nonprofits crowd out
-donations or donors? Public Finance Review, 31(2): 166-179.
+Brooks, Arthur C. 2003. “Do Government Subsidies to Nonprofits Crowd Out
+Donations or Donors?” *Public Finance Review* 31: 166.
+doi:[10.1177/1091142102250328](https://doi.org/10.1177/1091142102250328).
 
-Callen, J. L. 1994. Money donations, volunteering and organizational
-efficiency. The Journal of Productivity Analysis, 5(3): 215-228.
+Callen, Jeffrey L. 1994. “Money Donations, Volunteering and
+Organizational Efficiency.” *The Journal of Productivity Analysis* 5
+(3): 215–28.
 
-Cornforth, C. 2011. Nonprofit governance research: Limitations of the
-focus on boards and suggestions for new directions. Nonprofit and
-Voluntary Sector Quarterly, 41(6): 1116-1135.
+Coleman Selden, and Jessica E. Sowa. 2004. “Testing a Multi-Dimensional
+Model of Organizational Performance: Prospects and Problems.” *Journal
+of Public Administration Research and Theory* 14 (3): 395–416.
 
-Crispeels, T., Willems, J., & Scheerlinck, I. 2018. Public-private
-collaborations in drug development: Boosting innovation or alleviating
-risk? Public Management Review, 20(2): 273-293.
+Cornforth, Chris. 2011. “Nonprofit Governance Research: Limitations of
+the Focus on Boards and Suggestions for New Directions.” *Nonprofit and
+Voluntary Sector Quarterly* 41 (6): 1116–35.
+doi:[10.1177/0899764011427959](https://doi.org/10.1177/0899764011427959).
 
-Faulk, L., Willems, J., Johnson, J., & Stuart, A. 2016. Network
-connections and competitively awarded funding: The impacts of board
-network structures and status interlocks on nonprofit organizations’
-foundation grant acquisition. Public Management Review, 18(10):
-1425-1455.
+Crispeels, Thomas, Jurgen Willems, and Ilse Scheerlinck. 2018.
+“Public-Private Collaborations in Drug Development: Boosting Innovation
+or Alleviating Risk?” *Public Management Review* 20 (2): 273–93.
+doi:[10.1080/14719037.2017.1302247](https://doi.org/10.1080/14719037.2017.1302247).
 
-Fombrun, C., & Shanley, M. 1990. What's in a name? Reputation building
-and corporate strategy. Academy of Management Journal, 33(2): 233-258.
+Faulk, Lewis, Jurgen Willems, Jasmine McGinnis Johnson, and Amanda J.
+Stewart. 2016. “Network Connections and Competitively Awarded Funding:
+The Impacts of Board Network Structures and Status Interlocks on
+Nonprofit Organizations’ Foundation Grant Acquisition.” *Public
+Management Review* 18 (10): 1425–55.
+doi:[10.1080/14719037.2015.1112421](https://doi.org/10.1080/14719037.2015.1112421).
 
-Foster, W. L., Kim, P., & Christiansen, B. 2009. Ten nonprofit funding
-models. Stanford Social Innovation Review, Spring 2009: 32-39.
+Fombrun, Charles, and Mark Shanley. 1990. “What’s in a Name? Reputation
+Building and Corporate Strategy.” *Academy of Management Journal* 33
+(2): 233–58. doi:[10.2307/256324](https://doi.org/10.2307/256324).
 
-Hansmann, H. 1987. Economic theories of nonprofit organizations.
-pp27-42. In Powell W.W. (ed.) The nonprofit sector: A research handbook.
-New Haven, Yale University Press.
+Foster, William Landes, Peter Kim, and Barbara Christiansen. 2009. “Ten
+Nonprofit Funding Models.” *Stanford Social Innovation Review*, –.
 
-Herman, R. D., & Renz, D. O. 1999. Theses on nonprofit organizational
-effectiveness. Nonprofit and Voluntary Sector Quarterly, 28(2): 107-126.
+Hansmann, Henry. 1987. “Economic Theories of Nonprofit Organizations,”
+27–42.
 
-Herman, R. D., & Renz, D. O. 2008. Advancing nonprofit organizational
-effectiveness research and theory: Nine theses. Nonprofit Management &
-Leadership, 18(4): 399-415.
+Herman, Robert D., and David O. Renz. 1999. “Theses on Nonprofit
+Organizational Effectiveness.” *Nonprofit and Voluntary Sector
+Quarterly* 28 (2): 107–26.
+doi:[10.1177/0899764099282001](https://doi.org/10.1177/0899764099282001).
 
-House, R., Javidan, M., Hanges, P., & Dorfman, P. 2002. Understanding
-cultures and implicit leadership theories across the globe: an
-introduction to project GLOBE. Journal of World Business, 37(1): 3-10.
+———. 2008. “Advancing Nonprofit Organizational Effectiveness Research
+and Theory: Nine Theses.” *Nonprofit Management & Leadership* 18 (4):
+399–415. doi:[10.1002/nml.195](https://doi.org/10.1002/nml.195).
 
-Jun, K., & Shiau, E. 2012. How are we doing? A multiple constituency
-approach to civic association effectiveness. Nonprofit and Voluntary
-Sector Quarterly, 41(4): 632-655.
+House, Robert, Mansour Javidan, Paul Hanges, and Peter Dorfman. 2002.
+“Understanding Cultures and Implicit Leadership Theories Across the
+Globe: An Introduction to Project Globe.” *Journal of World Business* 37
+(1): 3–10.
 
-Lecy, J. D., Schmitz, H. P., & Swedlund, H. 2012. Non-governmental and
-not-for-profit organizational effectiveness: A modern synthesis.
-Voluntas: International Journal of Voluntary and Nonprofit
-Organizations, 23(2): 434-457.
+Jun, Kyu-Nahm, and Ellen Shiau. 2012. “How Are We Doing? A Multiple
+Constituency Approach to Civic Association Effectiveness.” *Nonprofit
+and Voluntary Sector Quarterly* 41 (4): 632–55.
 
-LeRoux, K., & Feeney, M. K. 2013. Factors attracting individuals to
-nonprofit management over public and private sector management.
-Nonprofit Management and Leadership, 24(1): 43-62.
+Lecy, Jesse D., Hans Peter Schmitz, and Haley Swedlund. 2012.
+“Non-Governmental and Not-for-Profit Organizational Effectiveness: A
+Modern Synthesis.” *Voluntas: International Journal of Voluntary and
+Nonprofit Organizations* 23 (2): 434–57.
 
-Morris, M. H., Coombes, S. S., & Minet, A. J. 2007. Antecedents and
-outcomes of entrepreneurial and market orientations in a non-profit
-context: theoretical and empirical insights. Journal of Leadership &
-Organizational Studies, 13(4): 12-39.
+LeRoux, Kelly, and Mary K. Feeney. 2013. “Factors Attracting Individuals
+to Nonprofit Management over Public and Private Sector Management.”
+*Nonprofit Management and Leadership* 24 (1): 43–62.
 
-Parker, L. D. 2007. Boardroom strategizing in professional associations:
-Processual and institutional perspectives. Journal of Management
-Studies, 44(8): 1454-1480.
+Morris, Michael H., Susan Coombes, Minet Schindehutte, and Jeffrey
+Allen. 2007. “Antecedents and Outcomes of Entrepreneurial and Market
+Orientations in a Non-Profit Context: Theoretical and Empirical
+Insights,” –.
 
-Rindova, V. P., Pollock, T. G., & Hayward, M. L. A. 2006. Celebrity
-firms: The social construction of market popularity. Academy of
-Management Review, 31(1): 50-71.
+Parker, Lee D. 2007. “Boardroom Strategizing in Professional
+Associations: Processual and Institutional Perspectives.” *Journal of
+Management Studies* 44 (8): 1454–80.
 
-Rindova, V. P., Williamson, I. O., Petkova. A. P., & Sever, J. M. 2005.
-Being good or being known: An empirical examination of the dimensions,
-antecedents, and consequences of organizational reputation. Academy of
-Management Journal, 48(6): 1033-1049.
+Rindova, Violina P., Ian O. Williamson, Antoaneta P, Petkova, and Joy
+Marie Sever. 2006. “Celebrity Firms: The Social Construction of Market
+Popularity.” *Academy of Management Review* 31 (1): 50–71.
 
-Selden, S. C., & Sowa, J. E. 2004. Testing a multi-dimensional model of
-organizational performance: Prospects and problems. Journal of Public
-Administration Research and Theory, 14(3): 395-416.
+Rindova, Violina P., Ian O. Williamson, Antoaneta P. Petkova, and Joy
+Marie Sever. 2005. “Being Good or Being Known: An Empirical Examination
+of the Dimensions, Antecedents, and Consequences of Organizational
+Reputation.” *Academy of Management Journal* 48 (6): 1033–49.
 
-Sowa, J. E., Selden, S. C., & Sandfort, J. R. 2004. No longer
-unmeasurable? A multidimensional integrated model of nonprofit
-organizational effectiveness. Nonprofit and Voluntary Sector Quarterly,
-33(4): 711-728.
+Sowa, Jessica E., Sally Coleman Selden, and Jodi R. Sandfort. 2004. “No
+Longer Unmeasurable? A Multidimensional Integrated Model of Nonprofit
+Organizational Effectiveness.” *Nonprofit and Voluntary Sector
+Quarterly* 33 (4): 711–28.
+doi:[10.1177/0899764004269146](https://doi.org/10.1177/0899764004269146).
 
-Valéau, P., Willems, J., Parak, H. 2016. The effect of attitudinal and
-behavioral commitment on the internal assessment of organizational
-effectiveness: A multilevel analysis. Voluntas: International Journal of
-Voluntary and Nonprofit Organizations, 27(6): 2913-2936.
+Valéau, Patrick, Jurgen Willems, and Hassan Parak. 2016. “The Effect of
+Attitudinal and Behavioral Commitment on the Internal Assessment of
+Organizational Effectiveness: A Multilevel Analysis.” *Voluntas:
+International Journal of Voluntary and Nonprofit Organizations* 27 (6):
+2913–36.
+doi:[10.1007/s11266-016-9703-6](https://doi.org/10.1007/s11266-016-9703-6).
 
-Van Puyvelde, S., Caers, R., Du Bois, C., & Jegers, M. 2012. The
-governance of nonprofit organizations: Integrating agency theory with
-stakeholder and stewardship theories. Nonprofit and Voluntary Sector
-Quarterly, 41(3): 431-451.
+Willems, Jurgen. 2014. “Antecedents or Effects of Being a Manager in the
+Nonprofit, Public or Private Sector.” *Nonprofit Management &
+Leadership* 25 (2): 183–89.
 
-Willems, J. 2014. Antecedents or effects of being a manager in the
-nonprofit, public or private sector. Nonprofit Management & Leadership,
-25(2): 183-189.
+———. 2015. “Individual Perceptions on the Participant and Societal
+Functionality of Non-Formal Education for Youth: Explaining Differences
+Across Countries Based on the Human Development Index.” *International
+Journal of Educational Development* 44: 11–20.
+doi:[10.1016/j.ijedudev.2015.07.003](https://doi.org/10.1016/j.ijedudev.2015.07.003).
 
-Willems, J. 2015. Individual perceptions on the participant and societal
-functionality of non-formal education for youth: Explaining differences
-across countries based on the Human Development Index. International
-Journal of Educational Development, 44(): 11-20.
+———. 2016a. “Building Shared Mental Models of Organizational
+Effectiveness in Leadership Teams Through Team Member Exchange Quality.”
+*Nonprofit and Voluntary Sector Quarterly*, –.
+doi:[10.1177/0899764015601244](https://doi.org/10.1177/0899764015601244 ).
 
-Willems, J. 2016. Organizational crisis resistance: Examining leadership
-mental models of necessary practices to resist crises and the role of
-organizational context. Voluntas: International Journal of Voluntary and
-Nonprofit Organizations, 27(6): 2807-2832.
+———. 2016b. “Organizational Crisis Resistance: Examining Leadership
+Mental Models of Necessary Practices to Resist Crises and the Role of
+Organizational Context.” *Voluntas: International Journal of Voluntary
+and Nonprofit Organizations* 27 (6): 2807–32.
+doi:[10.1007/s11266–016-9753-9](https://doi.org/10.1007/s11266–016-9753-9).
 
-Willems, J. 2016. Building shared mental models of organizational
-effectiveness in leadership teams through team member exchange quality.
-Nonprofit and Voluntary Sector Quarterly, 45(3): 568-592.
+Willems, Jurgen, and Stefan Ingerfurth. 2018. “The Quality Perception
+Gap Between Employees and Patients in Hospitals.” *Health Care
+Management Review* 43 (2): 157–67.
+doi:[10.1097/HMR.0000000000000137](https://doi.org/10.1097/HMR.0000000000000137).
 
-Willems, J., & Ingerfurth, S. 2018. The quality perception gap between
-employees and patients in hospitals. Health Care Management Review,
-43(2): 157-167.
+Willems, Jurgen, and Marlene Walk. 2013. “Assigning Volunteer Tasks: The
+Relation Between Task Preferences and Functional Motives of Youth
+Volunteers.” *Children and Youth Services Review* 35 (6): 1030–40.
+doi:[10.1016/j.childyouth.2013.03.010](https://doi.org/10.1016/j.childyouth.2013.03.010).
 
-Willems, J., & Walk, M. 2013. Assigning volunteer tasks: The relation
-between task preferences and functional motives of youth volunteers.
-Children and Youth Services Review, 35(6): 1030-1040.
+Willems, Jurgen, Fredrik O. Andersson, Marc Jegers, and David O. Renz.
+2017. “A Coalition Perspective on Nonprofit Governance Quality:
+Analyzing Dimensions of Influence in an Exploratory Comparative Case
+Analysis.” *Voluntas: International Journal of Voluntary and Nonprofit
+Organizations* 28 (4): 1422–47.
+doi:[10.1007/s11266-016-9683-6](https://doi.org/10.1007/s11266-016-9683-6).
 
-Willems, J., Andersson, F.O., Jegers, M., & Renz, D. O. 2017. A
-coalition perspective on nonprofit governance quality: Analyzing
-dimensions of influence in an exploratory comparative case analysis.
-Voluntas: International Journal of Voluntary and Nonprofit
-Organizations, 28(4): 1422-1447.
+Willems, Jurgen, Silke Boenigk, and Marc Jegers. 2014. “Seven Trade-Offs
+in Measuring Nonprofit Performance and Effectiveness.” *Voluntas:
+International Journal of Voluntary and Nonprofit Organizations* 25 (6):
+1648–70.
+doi:[10.1007/s11266-014-9446-1](https://doi.org/10.1007/s11266-014-9446-1).
 
-Willems, J., Boenigk, S., & Jegers, M. 2014. Seven trade-offs in
-measuring nonprofit performance and effectiveness. Voluntas:
-International Journal of Voluntary and Nonprofit Organizations, 25(6):
-1648-1670.
-
-Willems, J., Jegers, M., & Faulk, L. 2016. Organizational effectiveness
-reputation in the nonprofit sector. Public Performance and Management
-Review, 39(2): 476-497.
+Willems, Jurgen, Marc Jegers, and Lewis Faulk. 2016. “Organizational
+Effectiveness Reputation in the Nonprofit Sector.” *Public Performance
+and Management Review* 39 (2): 476–97.
+doi:[10.1080/15309576.2015.1108802](https://doi.org/10.1080/15309576.2015.1108802).
