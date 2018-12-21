@@ -1,3 +1,6 @@
+Habilitation - Synopsis: Leadership, Performance, and Reputation: A multi-method empirical view on the public and nonprofit sectors
+===================================================================================================================================
+
 **Contact:** [Jurgen
 Willems](https://www.researchgate.net/profile/Jurgen_Willems "ResearchGate: Jurgen Willems"),
 Universität Hamburg, Von-Melle-Park 9, 20146 Hamburg, Germany, GitHub:
@@ -6,9 +9,7 @@ Twitter:
 [@MrJurgenWillems](https://twitter.com/MrJurgenWillems "Twitter: Jurgen Willems")
 
 Introduction
-============
-
-\[@ \]
+------------
 
 This Habilitation dissertation combines eleven published articles for
 which the overall content relates to three interrelated concepts:
@@ -45,7 +46,7 @@ Habilitation I aim at fulfilling the prerequisite of a broad
 contribution to the management research field.
 
 Defining Leadership, Performance, and Reputation
-================================================
+------------------------------------------------
 
 Leadership is widely studied in the field of management and can be
 defined as “\[. . . \] the ability of an individual to influence,
@@ -94,7 +95,7 @@ cumulative Habilitation contribute to the literature by clarifying
 various factors that influence reputation and perceived performance.
 
 The public and nonprofit sectors as scientific field
-====================================================
+----------------------------------------------------
 
 Theory development and validation in the management research literature
 has still too often inherent assumptions embedded that are typical for
@@ -233,13 +234,12 @@ the necessary sensitivity and robustness evaluation of the theoretical
 lens that is taken.
 
 Overview of studies and contribution to the literature
-======================================================
+------------------------------------------------------
 
 The eleven articles of this cumulative Habilitation dissertation are
 conceptually and methodologically related in the following way.
 
-The link between leadership concepts and performance reputation
----------------------------------------------------------------
+### The link between leadership concepts and performance reputation
 
 Articles 1, 2, and 3 contain three quantitative analyses of three
 different survey databases, and each deals with an aspect of how
@@ -326,8 +326,7 @@ can be studied as a complex, nonlinear intermediate concept between
 coalitional aspects of leadership groups and nonprofit organizational
 performance.
 
-Further exploring and applying the concept of performance reputation
---------------------------------------------------------------------
+### Further exploring and applying the concept of performance reputation
 
 Articles 5 to 7 focus on the perceptions that internal and external
 stakeholders have on organizational performance and functionality.
@@ -395,8 +394,7 @@ size has no clear effect on the perception gap. Doctors compared to
 patients and other employee groups have substantially different
 perceptions on hospital quality.
 
-Further exploring specific challenges of the public and nonprofit sectors
--------------------------------------------------------------------------
+### Further exploring specific challenges of the public and nonprofit sectors
 
 As pointed out above, leadership and performance reputation are concepts
 that need special attention in the nonprofit and public sectors. Along
@@ -473,7 +471,7 @@ indicate that companies engage with public partners to mitigate
 development risks, not to exchange knowledge or technologies with them
 
 References
-==========
+----------
 
 Austin, James, Howard Stevenson, and Jane Wei‐Skillern. 2006. “Social
 and Commercial Entrepreneurship: Same, Different, or Both?”
