@@ -249,28 +249,32 @@ organizational performance. Article 4 complements these studies in a
 qualitative way by elaborating the power structures among leaders. More
 explanation per article is given in the respective paragraphs below.
 
-Article 1 (Willems 2016b) explores which governance practices nonprofit
-leaders consider necessary to avoid organizational crises. Further, it
-explores whether these leadership mental models of crisis resistance
-depend on the organizational context. This helps determine whether
-practical learning points are organization specific or can be applied
-broadly to any kind of (nonprofit) organization. With a multilevel
-sample of 304 leaders from 44 Belgian nongovernmental development
-organizations, an exploratory path analysis reveals that nonprofit
-leaders consider continuous improvement – as a governance practice –
-particularly relevant for effective organizational crisis resistance. A
-multilevel analysis also shows that variations in leadership mental
-models cannot be explained by the organizational variables used in this
-study (organizational size, leadership group size, operational
-activities, and languages in the leadership group).
+[Article
+1](https://doi.org/10.1007/s11266-016-9753-9 "Organizational crisis resistance")
+(Willems 2016b) explores which governance practices nonprofit leaders
+consider necessary to avoid organizational crises. Further, it explores
+whether these leadership mental models of crisis resistance depend on
+the organizational context. This helps determine whether practical
+learning points are organization specific or can be applied broadly to
+any kind of (nonprofit) organization. With a multilevel sample of 304
+leaders from 44 Belgian nongovernmental development organizations, an
+exploratory path analysis reveals that nonprofit leaders consider
+continuous improvement – as a governance practice – particularly
+relevant for effective organizational crisis resistance. A multilevel
+analysis also shows that variations in leadership mental models cannot
+be explained by the organizational variables used in this study
+(organizational size, leadership group size, operational activities, and
+languages in the leadership group).
 
-Article 2 (Willems 2016a), elaborates the insights from Article 1 by
-exploring in more depth the concept of shared mental models among
-leaders. Because shared mental models are critical for consistent,
-accurate decision making, this study seeks to explain the extent to
-which mental models are shared on the basis of team cognition theory and
-social constructionism. This study thus provides new insights into how
-the social dynamics among nonprofit leaders can explain mental models on
+[Article
+2](https://doi.org/10.1177/0899764015601244 "Building shared mental models of organizational effectiveness")
+(Willems 2016a), elaborates the insights from Article 1 by exploring in
+more depth the concept of shared mental models among leaders. Because
+shared mental models are critical for consistent, accurate decision
+making, this study seeks to explain the extent to which mental models
+are shared on the basis of team cognition theory and social
+constructionism. This study thus provides new insights into how the
+social dynamics among nonprofit leaders can explain mental models on
 nonprofit performance (i.e. internal performance reputation).
 Specifically, team member exchange (TMX) quality should relate to
 agreement within leadership teams. Building on recent multilevel team
@@ -283,8 +287,10 @@ the hypotheses are tested. Confirmation of the hypotheses offers
 insights into the multilevel, emergent nature of team behavior and
 shared mental models.
 
-Article 3 (Valéau, Willems, and Parak 2016) complements Articles 1 and 2
-by incorporating individual motivations of volunteers and employees that
+[Article
+3](https://doi.org/10.1007/s11266-016-9703-6 "The effect of attitudinal and behavioral commitment on the internal assessment of organizational effectiveness")
+(Valéau, Willems, and Parak 2016) complements Articles 1 and 2 by
+incorporating individual motivations of volunteers and employees that
 participate on the organizational decision processes. Using a multilevel
 analysis including 207 volunteers and paid workers nested within 51
 French nonprofit organizations from the French oversees Department La
@@ -304,10 +310,12 @@ effect of affective attitudinal commitment at the individual level,
 while counter balancing the negative effects related to normative
 individual and collective resistances.
 
-Article 4 (Willems et al. 2017) takes qualitative approach to leadership
-dynamics by framing it in the organizational literature on dominant
-coalitions in leadership teams. In doing so, we answer the call that
-nonprofit governance research should focus more on processes outside the
+[Article
+4](https://doi.org/10.1007/s11266-016-9683-6 "A coalition perspective on nonprofit governance quality")
+(Willems et al. 2017) takes qualitative approach to leadership dynamics
+by framing it in the organizational literature on dominant coalitions in
+leadership teams. In doing so, we answer the call that nonprofit
+governance research should focus more on processes outside the
 boundaries of governance boards, especially for nonprofit organizations.
 In particular, we suggest and elaborate concrete steps with respect to
 the advantages of a leadership coalition perspective to focus more on
@@ -336,26 +344,30 @@ measuring nonprofit performance or perceptions about it. Articles 6 and
 7 respectively elaborate concepts of stakeholder perceptions in the
 hospital and (non-formal) educational sectors.
 
-Article 5 (Willems, Boenigk, and Jegers 2014) presents seven trade-offs
-for researchers and practitioners to consider before engaging in a
-nonprofit performance measurement project. By presenting these seven
-trade-offs, this theory-driven study complements contemporary
-performance literature, which mainly offers theory-driven
-recommendations for measuring nonprofit effectiveness, performance, or
-related concepts. For each trade-off, we offer examples and suggestions
-to clarify the advantages and disadvantages of methodological choices
-that take various contextual elements into account. In particular, we
-address the differences between formative and reflective approaches, as
-well as the differences between unit of interest, unit of data
-collection, and unit of analysis. These topics require more in-depth
-attention in the nonprofit performance literature to avoid
-misinterpretations and measurement biases. Finally, this article
-concludes with five avenues for further research to help address key
-challenges that remain in this research area.
+[Article
+5](https://doi.org/10.1007/s11266-014-9446-1 "Seven trade-offs in measuring nonprofit performance and effectiveness")
+(Willems, Boenigk, and Jegers 2014) presents seven trade-offs for
+researchers and practitioners to consider before engaging in a nonprofit
+performance measurement project. By presenting these seven trade-offs,
+this theory-driven study complements contemporary performance
+literature, which mainly offers theory-driven recommendations for
+measuring nonprofit effectiveness, performance, or related concepts. For
+each trade-off, we offer examples and suggestions to clarify the
+advantages and disadvantages of methodological choices that take various
+contextual elements into account. In particular, we address the
+differences between formative and reflective approaches, as well as the
+differences between unit of interest, unit of data collection, and unit
+of analysis. These topics require more in-depth attention in the
+nonprofit performance literature to avoid misinterpretations and
+measurement biases. Finally, this article concludes with five avenues
+for further research to help address key challenges that remain in this
+research area.
 
-Article 6 (Willems 2015) focuses on stakeholder perceptions for a
-particular type of organizations. Non-formal education is often one of
-the organizational goals of many public and nonprofit organizations, and
+[Article
+6](https://doi.org/10.1016/j.ijedudev.2015.07.003 "Individual perceptions on the participant and societal functionality of non-formal education for youth")
+(Willems 2015) focuses on stakeholder perceptions for a particular type
+of organizations. Non-formal education is often one of the
+organizational goals of many public and nonprofit organizations, and
 this study explores how the availability of resources for stakeholders
 influences their perceptions on non-formal education. Hence, the aim of
 this study is to explore the extent that country-level developmental
@@ -371,10 +383,12 @@ index (HDI), and societal functionality. In contrast, participant
 functionality remains constant despite differences between countries for
 the HDI.
 
-Article 7 (Willems and Ingerfurth 2018), similarly to Article 6 focuses
-on stakeholder perceptions for a particular type of organizations.
-However, this time the focus is on patients’ and employees’ perceptions
-on hospital performance. To assess hospital performance, quality
+[Article
+7](https://doi.org/10.1097/HMR.0000000000000137 "The quality perception gap between employees and patients in hospitals")
+(Willems and Ingerfurth 2018), similarly to Article 6 focuses on
+stakeholder perceptions for a particular type of organizations. However,
+this time the focus is on patients’ and employees’ perceptions on
+hospital performance. To assess hospital performance, quality
 perceptions of various stakeholders are increasingly taken into account.
 However, because of substantial background differences, various
 stakeholder groups might have different and even contrasting quality
@@ -409,67 +423,74 @@ performance (or performance reputation) is influenced by intra- and
 inter sector collaborations.
 
 Given the unique role of prosocial motivation and behavior in the public
-and nonprofit sectors, in Article 8 (Willems and Walk 2013) we aim to
-explore the relationship between volunteer motives and task preferences
-in order to provide volunteer managers with better insight in how tasks
-can be assigned to keep youth volunteers satisfied. Earlier seminal
-contributions have either taken a pure functional approach – where
-various types of motives are supposed to be at the base of any type of
-volunteer work – or a differentiated approach, where particular motives
-relate to specific task preferences. However, empirical results reported
-in the literature do not justify the preference of one approach above
-the other. To investigate whether one of the approaches is superior, or
-whether a combination of both is more appropriate, we perform a
-canonical correlation analysis for a set of functional motives and a set
-of task preferences (N = 2,158). Five distinct relationships (canonical
-variate pairs) of motives and preferences are found. Results show that a
-‘functional basis’ exists where all motives relate to a basic set of
-tasks. Additionally, a more differentiated approach towards volunteer
-motives and task preferences has to be taken, as we find four other
-relationships where specific motives are satisfied by assigning
-particular sets of tasks.
+and nonprofit sectors, in [Article
+8](https://doi.org/10.1016/j.childyouth.2013.03.010 "The relation between task preferences and functional motives of youth volunteers")
+(Willems and Walk 2013) we aim to explore the relationship between
+volunteer motives and task preferences in order to provide volunteer
+managers with better insight in how tasks can be assigned to keep youth
+volunteers satisfied. Earlier seminal contributions have either taken a
+pure functional approach – where various types of motives are supposed
+to be at the base of any type of volunteer work – or a differentiated
+approach, where particular motives relate to specific task preferences.
+However, empirical results reported in the literature do not justify the
+preference of one approach above the other. To investigate whether one
+of the approaches is superior, or whether a combination of both is more
+appropriate, we perform a canonical correlation analysis for a set of
+functional motives and a set of task preferences (N = 2,158). Five
+distinct relationships (canonical variate pairs) of motives and
+preferences are found. Results show that a ‘functional basis’ exists
+where all motives relate to a basic set of tasks. Additionally, a more
+differentiated approach towards volunteer motives and task preferences
+has to be taken, as we find four other relationships where specific
+motives are satisfied by assigning particular sets of tasks.
 
-While Article 8 focusses on volunteers, Article 9 (Willems 2014) focuses
-on motivational aspects of employees in the nonprofit and public
-sectors, compared to the for-profit sector. In this study, I postulate a
-complementary consideration to an article of LeRoux and Feeney 2013. The
-aim is to provide avenues for further research on employee research in
-the public and nonprofit sectors based on an evaluation of the embedded
-assumptions on causality and interdependency of the variables used. I
-perform an extended empirical analysis of the same data as used in
-LeRoux and Feeney (2013) in which inherent assumptions are adjusted
-based on available literature. Results show that their conclusions need
-nuancing, and that further research could focus on (1) a clearer
-distinction between antecedents and effects of sector of employment, and
-(2) the different relationships across sectors between work‐related
-variables, such as job satisfaction, job flexibility, or job clarity.
+While Article 8 focusses on volunteers, [Article
+9](https://doi.org/10.1002/nml.21119 "Antecedents or effects of being a manager in the nonprofit, public or private sector")
+(Willems 2014) focuses on motivational aspects of employees in the
+nonprofit and public sectors, compared to the for-profit sector. In this
+study, I postulate a complementary consideration to an article of LeRoux
+and Feeney 2013. The aim is to provide avenues for further research on
+employee research in the public and nonprofit sectors based on an
+evaluation of the embedded assumptions on causality and interdependency
+of the variables used. I perform an extended empirical analysis of the
+same data as used in LeRoux and Feeney (2013) in which inherent
+assumptions are adjusted based on available literature. Results show
+that their conclusions need nuancing, and that further research could
+focus on (1) a clearer distinction between antecedents and effects of
+sector of employment, and (2) the different relationships across sectors
+between work‐related variables, such as job satisfaction, job
+flexibility, or job clarity.
 
-The study in Article 10 (Faulk et al. 2016) investigates whether
-nonprofit board connections with other nonprofit organizations and
-foundations explain organizational performance in earning foundation
-grants. Using a sample of 402 nonprofits and sixty-eight foundations in
-a single metropolitan area in the US, we find that greater connectedness
-and status interlocks significantly influence organizations’ ability to
-acquire resources. Network effects are partially mediated by the number
-of past grants received and a nonprofit’s financial characteristics,
-including organizational size, fundraising expenses, and financial
-health. These findings, while supporting the role of networks in
-resource attainment, point to the complex and mutual relationships
-between organizational characteristics, network characteristics, and
-organizational performance.
+The study in [Article
+10](https://doi.org/10.1080/14719037.2015.1112421 "Network connections and competitively awarded funding")
+(Faulk et al. 2016) investigates whether nonprofit board connections
+with other nonprofit organizations and foundations explain
+organizational performance in earning foundation grants. Using a sample
+of 402 nonprofits and sixty-eight foundations in a single metropolitan
+area in the US, we find that greater connectedness and status interlocks
+significantly influence organizations’ ability to acquire resources.
+Network effects are partially mediated by the number of past grants
+received and a nonprofit’s financial characteristics, including
+organizational size, fundraising expenses, and financial health. These
+findings, while supporting the role of networks in resource attainment,
+point to the complex and mutual relationships between organizational
+characteristics, network characteristics, and organizational
+performance.
 
-Article 11 (Crispeels, Willems, and Scheerlinck 2018) focuses also on
-the role of organizational collaborations on performance. Consistent
-with popular belief among certain academics, practitioners, and policy
-makers, we hypothesize that collaboration between private and public
-organizations promotes success. We test this hypothesis for data on
-clinical trial success. Contrary to this popular belief, our results do
-not support the beneficial effect of within- and cross-sector
-collaborations. In contrast, we find that trials from single private
-companies are four times more likely to be successful than are trials in
-which public and private organizations collaborate. Hence, our results
-indicate that companies engage with public partners to mitigate
-development risks, not to exchange knowledge or technologies with them
+[Article
+11](https://doi.org/10.1080/14719037.2017.1302247 "Public-Private Collaborations in Drug Development: Boosting Innovation or Alleviating Risk?")
+(Crispeels, Willems, and Scheerlinck 2018) focuses also on the role of
+organizational collaborations on performance. Consistent with popular
+belief among certain academics, practitioners, and policy makers, we
+hypothesize that collaboration between private and public organizations
+promotes success. We test this hypothesis for data on clinical trial
+success. Contrary to this popular belief, our results do not support the
+beneficial effect of within- and cross-sector collaborations. In
+contrast, we find that trials from single private companies are four
+times more likely to be successful than are trials in which public and
+private organizations collaborate. Hence, our results indicate that
+companies engage with public partners to mitigate development risks, not
+to exchange knowledge or technologies with them
 
 References
 ----------
