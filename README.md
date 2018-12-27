@@ -24,7 +24,7 @@ clarify the academic contributions made by this Habilitation for these
 three concepts. In the text below, there are links to the to the
 original articles (publishers’ websites). However, if you have no access
 to these journals due to the pay-wall, you can request the articles over
-**[ResearchGate](https://www.researchgate.net/profile/Jurgen_Willems "ResearchGate: Jurgen Willems")**,
+**[ResearchGate](https://www.researchgate.net/profile/Jurgen_Willems/research "ResearchGate: Jurgen Willems")**,
 and I will as soon as possible send you a copy.
 
 The empirical analyses of the studies are situated in the context of
