@@ -21,7 +21,11 @@ studies aims at bringing a substantial contribution to the field of
 management research, both from a scientific and a practice perspective.
 In the subsequent section, I shortly introduce these concepts, and I
 clarify the academic contributions made by this Habilitation for these
-three concepts.
+three concepts. In the text below, there are links to the to the
+original articles (publishers’ websites). However, if you have no access
+to these journals due to the pay-wall, you can request the articles over
+**[ResearchGate](https://www.researchgate.net/profile/Jurgen_Willems "ResearchGate: Jurgen Willems")**,
+and I will as soon as possible send you a copy.
 
 The empirical analyses of the studies are situated in the context of
 nonprofit and public organizations. In this synopsis, I further explain
