@@ -9,6 +9,9 @@ Universität Hamburg, Von-Melle-Park 9, 20146 Hamburg, Germany, GitHub:
 Twitter:
 [@MrJurgenWillems](https://twitter.com/MrJurgenWillems "Twitter: Jurgen Willems")
 
+**For a PDF version, please visit:
+[osf.io/np9e3](https://osf.io/np9e3 "Habilitation - Synopsis: Leadership, Performance, and Reputation: A multi-method empirical view on the public and nonprofit sectors")**
+
 Introduction
 ------------
 
